@@ -21,7 +21,7 @@ function DataTable() {
                     </tr>
                     <tr>
                         <td>23/04/2021</td>
-                        <td>Fábia Deallem</td>
+                        <td>Logan</td>
                         <td>04</td>
                         <td>01</td>
                         <td>9017.00</td>
